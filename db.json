@@ -1,4 +1,8 @@
 {
-  "webTimeline": [
+  "products": [
+    {
+      "id": 1,
+      "description": "Macbook !"
+    }
   ]
 }
